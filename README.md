@@ -1,6 +1,6 @@
 # Banco de Dados   E- commerce.
 
-**Observação: Projeto ainda está em atualização 05/03/2024.
+**Observação: O projeto ainda está em atualização 05/03/2024.
 
 Banco de Dados feito para estudo, com dados fictícios de vendas de um E-commerce.
 
