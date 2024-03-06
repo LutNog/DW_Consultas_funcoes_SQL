@@ -14,6 +14,7 @@ Os comandos foram divididos em conjuntos sendo:
 3 - Exploração dos Dados.
 
 4 - 
+
 5 - Automatização do DB.
 
 6 - Análise de Dados usando SQL.
