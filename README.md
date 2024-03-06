@@ -3,6 +3,7 @@
 **Observação: Projeto ainda está em atualização 05/03/2024.
 
 Banco de Dados feito para estudo, com dados fictícios de vendas de um E-commerce.
+
 O Intuito é praticar diversas técnicas utilizando comandos SQL, Funções de Agregação, Subquerys,  Função Windows, Procedures, Views, Trigges, Encoding.
 
 ## Os comandos foram divididos em conjuntos sendo:
