@@ -14,12 +14,11 @@ O propósito é praticar diversas técnicas utilizando comandos SQL, Funções d
 
 3 - Exploração dos Dados.
 
-4 - 
+4 - Limpeza e Tramaento dos Dados
 
-5 - Automatização do DB.
+5 - Automatização do Banco de Dados.
 
-6 - Análise de Dados usando SQL.
+6 - Respondendo Perguntas de Negócio.
 
 7 - Encoding dos Dados.
 
-## Para Análise de Dados respondemos as seguintes perguntas:
