@@ -71,5 +71,10 @@ Tabela Vendas
 
 -- Quais clientes tiveram o feedback abaixo da média?
 
+# DASHBOARD
+
+Dashboard de vendas
+https://lookerstudio.google.com/s/hZwvr8SCxPs
+
 
 última atualização 05/03/2024.
