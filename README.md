@@ -72,4 +72,4 @@ Tabela Vendas
 -- Quais clientes tiveram o feedback abaixo da média?
 
 
-última autialização 05/03/2024.
+última atualização 05/03/2024.
