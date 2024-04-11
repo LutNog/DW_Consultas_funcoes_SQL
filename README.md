@@ -6,7 +6,7 @@ Banco de Dados feito para estudo, com dados fictícios de vendas de um E-commerc
 
 O propósito é praticar diversas técnicas utilizando comandos SQL, Funções de Agregação, Subquerys,  Função Windows, Procedures, Views, Trigges, Encoding.
 
-## O projeto foi dividido em conjuntos sendo:
+## O projeto foi dividido em etapas sendo:
 
 1 - Criação de Tabelas.
 
