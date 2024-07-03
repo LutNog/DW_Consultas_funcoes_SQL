@@ -1,4 +1,4 @@
-# Banco de Dados E-Commerce.
+# Data Warehouse E-Commerce.
 
 Os dados de vendas são fictícios, foram inseridos com procedures utilizando linguagem PLpgSQL, o objetivo é colocar em prática conceitos de linguagem SQL e análise de dados utilizando PostgreSQL.
 
@@ -12,7 +12,7 @@ Alguns comandos SQL utilizados foram: Funções de Agregação, Subquerys, Funç
 
 - [x] 3 - Exploração dos Dados.
 
-- [ ] 4 - Limpeza e Tratamento dos Dados.
+- [X] 4 - Limpeza e Tratamento dos Dados.
 
 - [x] 5 - Automatização do Banco de Dados.
 
@@ -40,7 +40,7 @@ Tabela Produtos
 | id_produto       | INT          | NO    | SERIAL | Primary Key                 |
 | nome_produto     | VARCHAR(255) | NO    |        |                             |
 
-Tabela Vendas
+Tabela FATO Vendas
 |       CAMPO      |      TIPO    | NULO  | EXTRA  |         COMENTARIOS         |
 |------------------|--------------|-------|--------|-----------------------------|
 | id_vendas        | INT          | NO    | SERIAL | Primary Key                 |
